@@ -1,0 +1,5 @@
+{
+  "name": "Analisador de Vendas (PDF)",
+  "description": "Aplicação de análise de vendas, através de documentos gerados em PDF.\nAnalisa a movimentação diária no Caixa.",
+  "requestFramePermissions": []
+}
